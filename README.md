@@ -1,7 +1,7 @@
 # Links Legais
-Colecao de links uteis
+Coleção de links úteis
 
-## Referencia da Linguagem
+## Referência da Linguagem
 1. https://php.net/
 2. https://phptherightway.com/
 
