@@ -1,1 +1,27 @@
+# Curso PHP - Ementa
 
+- O que é PHP?
+- Arquitetura cliente x servidor
+- Protocolo HTTP
+- Características da linguagem PHP (fracamente tipada, procedural, orientada a objetos)
+- Sintaxe PHP
+- Declaração de variáveis
+- Tipos primitivos (int, float, boolean, string, null)
+- Arrays (indexados, associativos e multidimensionais)
+- Operadores aritméticos
+- Operadores de atribuição
+- Operadores de comparação
+- Operadores lógicos
+- Operadores incremento/decremento
+- Operadores de string (concatenação, interpolação de variável (strings com aspas duplas))
+- Loops em PHP (for, foreach, while)
+- Expressões condicionais (if, else, ifelse, switch)
+- Funções
+- Escopo de variáveis
+- Variáveis pré-definidas de PHP ($_GET, $_POST, $_SERVER, $_SESSION)
+- Passagem de parâmetros via GET e via POST
+- Interação com o banco de dados
+  - conexão
+  - queries (SELECT, INSERT, UPDATE, DELETE)
+  - tratamento de erros
+  - paginação
